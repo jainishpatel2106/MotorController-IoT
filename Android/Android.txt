@@ -1,0 +1,1 @@
+This folder contains all files required to modify the APK code in Android studio.
