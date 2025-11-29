@@ -1,0 +1,1 @@
+This contains APK file ready to install in Android device.
