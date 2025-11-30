@@ -1,5 +1,9 @@
 # WiFi DC Motor Controller (Arduino + ESP8266 + Python GUI + Android App)
 **Note:** Python must be installed on your laptop.
+## 📥 Download APK
+[➡️ **Download Latest Android APK**](https://github.com/jainishpatel2106/MotorController-IoT/releases/latest)
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/jainishpatel2106/MotorController-IoT/releases/latest)
 
 Control a 12V DC motor wirelessly using Arduino Mega/Uno, ESP8266 module, L293D motor driver, Python GUI, and Android APK.
 
