@@ -241,3 +241,23 @@ Created by Jainish Patel
     <img src="https://img.shields.io/github/stars/jainishpatel2106/MotorController-IoT?style=social" />
   </a>
 </p>
+
+------------------------------------------------------------
+
+⚠️ Hardware Wiring Disclaimer
+
+The hardware wiring diagrams, motor driver instructions, electrical
+connections, ESP8266 setup details, and power distribution guidance provided
+in this project are intended for educational and experimental use only.
+Incorrect wiring, improper power supply handling, or misuse of motor drivers
+and ESP modules may result in component damage, electrical hazards, fire
+risks, or personal injury.
+
+By using this project, you agree that you are solely responsible for verifying
+all electrical connections and ensuring safe electrical practices. You assume
+all risks associated with assembling, wiring, and powering the hardware
+described in this repository.
+
+The author assumes no responsibility or liability for any damage, loss, or
+injury resulting from the use of the hardware information or instructions
+provided in this project.
