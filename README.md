@@ -8,7 +8,6 @@
 Control a 12V DC motor wirelessly using Arduino Mega/Uno, ESP8266 module, L293D motor driver, Python GUI, and Android APK.
 
 This project works entirely on a local Wi-Fi LAN (no internet required).
-Note: 
 
 ---
 
