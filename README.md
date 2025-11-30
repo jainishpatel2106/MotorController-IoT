@@ -230,3 +230,14 @@ Pull requests welcome.
 ## Credits  
 Created by Jainish Patel  
 
+<p align="left">
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://github.com/jainishpatel2106/MotorController-IoT/releases/latest">
+    <img src="https://img.shields.io/github/v/release/jainishpatel2106/MotorController-IoT?color=blue&label=Latest%20Release" />
+  </a>
+  <a href="https://github.com/jainishpatel2106/MotorController-IoT">
+    <img src="https://img.shields.io/github/stars/jainishpatel2106/MotorController-IoT?style=social" />
+  </a>
+</p>
