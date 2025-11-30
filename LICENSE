@@ -1,0 +1,41 @@
+MIT License
+
+Copyright (c) 2025 Jainish Patel
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+------------------------------------------------------------
+
+⚠️ Hardware Wiring Disclaimer
+
+The hardware wiring diagrams, motor driver instructions, electrical
+connections, ESP8266 setup details, and power distribution guidance provided
+in this project are intended for educational and experimental use only.
+Incorrect wiring, improper power supply handling, or misuse of motor drivers
+and ESP modules may result in component damage, electrical hazards, fire
+risks, or personal injury.
+
+By using this project, you agree that you are solely responsible for verifying
+all electrical connections and ensuring safe electrical practices. You assume
+all risks associated with assembling, wiring, and powering the hardware
+described in this repository.
+
+The author assumes no responsibility or liability for any damage, loss, or
+injury resulting from the use of the hardware information or instructions
+provided in this project.
