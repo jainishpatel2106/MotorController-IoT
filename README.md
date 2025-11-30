@@ -8,6 +8,7 @@
 Control a 12V DC motor wirelessly using Arduino Mega/Uno, ESP8266 module, L293D motor driver, Python GUI, and Android APK.
 
 This project works entirely on a local Wi-Fi LAN (no internet required).
+Note: 
 
 ---
 
@@ -21,6 +22,20 @@ This project works entirely on a local Wi-Fi LAN (no internet required).
 - ESP8266 acts as a TCP server
 - Real-time response
 - Open-source project
+
+---
+## Controller Compatibility Note
+
+This project supports multiple control options, and the Arduino/ESP8266 firmware remains exactly the same for all of them:
+
+✔️ Python GUI from your PC
+
+✔️ Android App (APK included)
+
+✔️ Both at the same time (multi-client supported)
+
+Because the ESP8266 runs as a TCP server, any client that sends the same speed,direction packet format will work automatically.
+No changes are required in the Arduino code or ESP configuration.
 
 ---
 
